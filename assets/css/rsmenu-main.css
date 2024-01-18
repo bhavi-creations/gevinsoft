@@ -665,3 +665,16 @@ Version: 1.0.0
         display: none;
     }
 }
+
+
+.partners{
+    background-color: rgb(187, 183, 183);
+    height: auto;
+    width: auto;
+}
+
+.card{
+    background-color: #ffff;
+    height: auto;
+    width: auto;
+}
