@@ -673,8 +673,20 @@ Version: 1.0.0
     width: auto;
 }
 
-.card{
+.card1{
     background-color: #ffff;
     height: auto;
     width: auto;
+    /* border-radius: 12%; */
+}
+
+.mission{
+    background-color: #00AEEF;
+    height: auto;
+    width: auto;
+    color: #FFF;
+}
+.mission  h3{
+    /* color: #FFF; */
+    color: #e7720b;
 }
